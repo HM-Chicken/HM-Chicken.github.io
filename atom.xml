@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hm-chicken.github.io</id>
     <title>HM-Chicken</title>
-    <updated>2020-06-21T16:41:03.919Z</updated>
+    <updated>2020-06-21T17:09:38.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hm-chicken.github.io"/>
     <link rel="self" href="https://hm-chicken.github.io/atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://hm-chicken.github.io/images/avatar.png</logo>
     <icon>https://hm-chicken.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, HM-Chicken</rights>
+    <entry>
+        <title type="html"><![CDATA[如何安全地当一名福利小姐姐？]]></title>
+        <id>https://hm-chicken.github.io/post/ru-he-an-quan-di-dang-yi-ming-fu-li-xiao-jie-jie/</id>
+        <link href="https://hm-chicken.github.io/post/ru-he-an-quan-di-dang-yi-ming-fu-li-xiao-jie-jie/">
+        </link>
+        <updated>2020-06-21T16:41:23.000Z</updated>
+    </entry>
 </feed>
